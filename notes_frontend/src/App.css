@@ -1,13 +1,15 @@
 /* CSS Variables for Theme Management */
 :root {
-  /* Light theme colors */
-  --bg-primary: #ffffff;
-  --bg-secondary: #f8f9fa;
-  --text-primary: #282c34;
-  --text-secondary: #61dafb;
-  --border-color: #e9ecef;
-  --button-bg: #007bff;
-  --button-text: #ffffff;
+  --primary: #1976d2;
+  --accent: #ffd600;
+  --secondary: #424242;
+
+  --bg-primary: #fafbfc;
+  --bg-secondary: #ffffff;
+  --text-primary: #20242a;
+  --text-secondary: #61718a;
+  --border-color: #e2e6ea;
+  --shadow-main: 0 6px 20px #1976d21a;
 }
 
 [data-theme="dark"] {
